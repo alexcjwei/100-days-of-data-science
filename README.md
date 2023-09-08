@@ -12,6 +12,7 @@
 ## Getting Started
 ### Day 0: 09/07/23
 * Read Andrew Ng's ["How to Build Your Career in AI" eBook](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book#MYL-form)
+* Need to remember my career is long -- all I have to do is start now and do a little every day
 
 ### Day 1: 09/08/23
 * Decided to start working my way through Kaggle's Getting Started challenges.
