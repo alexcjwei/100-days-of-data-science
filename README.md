@@ -17,4 +17,7 @@
 ### Day 1: 09/08/23
 * Decided to start working my way through Kaggle's Getting Started challenges.
 * Working on the classic MNIST dataset. I must've done this before, but am doing it without following any tutorial this time and am learning a lot more along the way (not just hitting run on cells).
+* Tried with some sklearn classification algorithms (svm.SVC, trees.DecisionTreeClassifier, neighbors.KNearestNeighborsClassifier), mostly with default settings and they performed well
+* SVM seems to perform the best but is also the slowest
+* Evaluation is hard bc have to choose the right metrics
 * Here's the repo where I'll keep track of those notebooks: https://github.com/alexcjwei/getting-started-kaggle
