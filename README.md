@@ -1,5 +1,13 @@
 # 100-days-of-data-science
-Trying to get gud at machine learning, will try to do a little bit every day for 100 days and track my progress here
+## Motivation:
+* Trying to get gud at machine learning, bc it's the future and it's cool
+* I tend to get analysis-paralysis when it comes to choosing a project to work on
+* With this challenge, I'll give myself space to work on small/toy projects to start and will organically grow to work on bigger challenges
+
+## Goal
+* Get hands-on practice with exploratory data analysis, training, and evaluation
+* Apply the things I've learned in AI, ML, Deep Learning, Computer Vision, and AI System Design
+* At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Getting Started
 ### Day 0: 09/07/23
