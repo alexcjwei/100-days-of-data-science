@@ -21,3 +21,4 @@
 * SVM seems to perform the best but is also the slowest
 * Evaluation is hard bc have to choose the right metrics
 * Here's the repo where I'll keep track of those notebooks: https://github.com/alexcjwei/getting-started-kaggle
+* Tmrw: try CNN then move on
