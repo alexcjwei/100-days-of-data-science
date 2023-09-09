@@ -22,3 +22,11 @@
 * Evaluation is hard bc have to choose the right metrics
 * Here's the repo where I'll keep track of those notebooks: https://github.com/alexcjwei/getting-started-kaggle
 * Tmrw: try CNN then move on
+
+
+### Day 2: 09/09/23
+* Making CNN to classify MNIST digit dataset
+* Learning how to create datasets and dataloaders
+* How loss & optimizer & a net relate must be through the net parameters, but it's not entirely clear how
+* Not sure how CNN dimensions work
+* I think it's bc there's no channels in the MNIST dataset
