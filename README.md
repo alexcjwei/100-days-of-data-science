@@ -29,4 +29,5 @@
 * Learning how to create datasets and dataloaders
 * How loss & optimizer & a net relate must be through the net parameters, but it's not entirely clear how
 * Not sure how CNN dimensions work
-* I think it's bc there's no channels in the MNIST dataset
+* I think it's bc there's no channels in the MNIST dataset. (This ended up being the problem, needed to add a dimension for a single channel. But I should brush up on the dimensionality of CNNs anyways)
+* Watched StatQuest on CNNs https://youtu.be/HGwBXDKFk9I?si=7FruRffmcSn9G1b9
