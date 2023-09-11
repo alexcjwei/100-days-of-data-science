@@ -42,4 +42,5 @@
 * Tmrw going to pause from doing challenges and do those tutorials I listed yesterday. And then after that will try a NN or other classifier.
 
 ### Day 4: 09/11/2023
-* 
+* Started the intermediate machine learning Kaggle course
+* Learned how to handle missing values with several methods (dropping, imputation, imputation with labeling)
