@@ -31,3 +31,15 @@
 * Not sure how CNN dimensions work
 * I think it's bc there's no channels in the MNIST dataset. (This ended up being the problem, needed to add a dimension for a single channel. But I should brush up on the dimensionality of CNNs anyways)
 * Watched StatQuest on CNNs https://youtu.be/HGwBXDKFk9I?si=7FruRffmcSn9G1b9
+* Made my first Kaggle competiton submission. Ik these are toy problems but I'm learning things :)
+* May try using some sort of ensemble for my next competition
+* Things to do for tmrw: [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) and [Data Visualization](https://www.kaggle.com/learn/data-visualization) and [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) for EDA.
+
+### Day 3: 09/10/2023
+* Started the Kaggle titanic dataset
+* Did a lot more EDA and feature engineering -- some `NaN` values, features that may have caused memorization, some features that needed parsing
+* Making a random forest gets an accuracy score of 0.825. Not too bad for first attempt?
+* Tmrw going to pause from doing challenges and do those tutorials I listed yesterday. And then after that will try a NN or other classifier.
+
+### Day 4: 09/11/2023
+* 
