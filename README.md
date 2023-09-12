@@ -44,3 +44,11 @@
 ### Day 4: 09/11/2023
 * Started the intermediate machine learning Kaggle course
 * Learned how to handle missing values with several methods (dropping, imputation, imputation with labeling)
+
+### Day 5: 09/12/2023
+* Learned how to pre-process categorical data using ordinal encoding and one-hot encoding
+* Learned how to create pipelines to combine preprocessing and prediction/inference in the same step. So much cleaner!
+* Learned how to use cross-validation. Should take a look at grid search at some point
+
+### Day 6: 09/13/2023
+* 
