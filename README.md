@@ -51,4 +51,4 @@
 * Learned how to use cross-validation. Should take a look at grid search at some point
 
 ### Day 6: 09/13/2023
-* 
+* Learned about XGBoost through Kaggle's Intermediate ML tutorial. I guess for XGBoost we don't make the trees separately and have them learn from previous trees instead
