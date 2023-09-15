@@ -52,3 +52,6 @@
 
 ### Day 6: 09/13/2023
 * Learned about XGBoost through Kaggle's Intermediate ML tutorial. I guess for XGBoost we don't make the trees separately and have them learn from previous trees instead
+
+### Day 7: 09/14/2023
+* Learned about data leakage and finished Kaggle's Intermediate ML tutorial. Pretty hard to identify!
