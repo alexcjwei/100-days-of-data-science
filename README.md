@@ -55,3 +55,9 @@
 
 ### Day 7: 09/14/2023
 * Learned about data leakage and finished Kaggle's Intermediate ML tutorial. Pretty hard to identify!
+
+### Day 8: 09/15/2023
+* Started applying what I learned this week to the titanic ML dataset. Think I just want to get a pipeline working with XGBoost, with added features, then move onto a new dataset
+
+### Day 9: 09/16/2023
+* 
