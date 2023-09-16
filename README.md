@@ -9,20 +9,34 @@
 * Apply the things I've learned in AI, ML, Deep Learning, Computer Vision, and AI System Design
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
-## Getting Started
-### Day 0: 09/07/23
-* Read Andrew Ng's ["How to Build Your Career in AI" eBook](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book#MYL-form)
-* Need to remember my career is long -- all I have to do is start now and do a little every day
+## Log
+### Day 9: 09/16/2023
+* Added pipeline for rfc on titanic dataset
+* Added cabin letter feature from cabin
 
-### Day 1: 09/08/23
-* Decided to start working my way through Kaggle's Getting Started challenges.
-* Working on the classic MNIST dataset. I must've done this before, but am doing it without following any tutorial this time and am learning a lot more along the way (not just hitting run on cells).
-* Tried with some sklearn classification algorithms (svm.SVC, trees.DecisionTreeClassifier, neighbors.KNearestNeighborsClassifier), mostly with default settings and they performed well
-* SVM seems to perform the best but is also the slowest
-* Evaluation is hard bc have to choose the right metrics
-* Here's the repo where I'll keep track of those notebooks: https://github.com/alexcjwei/getting-started-kaggle
-* Tmrw: try CNN then move on
+### Day 8: 09/15/2023
+* Started applying what I learned this week to the titanic ML dataset. Think I just want to get a pipeline working with XGBoost, with added features, then move onto a new dataset
 
+### Day 7: 09/14/2023
+* Learned about data leakage and finished Kaggle's Intermediate ML tutorial. Pretty hard to identify!
+
+### Day 6: 09/13/2023
+* Learned about XGBoost through Kaggle's Intermediate ML tutorial. I guess for XGBoost we don't make the trees separately and have them learn from previous trees instead
+
+### Day 5: 09/12/2023
+* Learned how to pre-process categorical data using ordinal encoding and one-hot encoding
+* Learned how to create pipelines to combine preprocessing and prediction/inference in the same step. So much cleaner!
+* Learned how to use cross-validation. Should take a look at grid search at some point
+
+### Day 4: 09/11/2023
+* Started the intermediate machine learning Kaggle course
+* Learned how to handle missing values with several methods (dropping, imputation, imputation with labeling)
+
+### Day 3: 09/10/2023
+* Started the Kaggle titanic dataset
+* Did a lot more EDA and feature engineering -- some `NaN` values, features that may have caused memorization, some features that needed parsing
+* Making a random forest gets an accuracy score of 0.825. Not too bad for first attempt?
+* Tmrw going to pause from doing challenges and do those tutorials I listed yesterday. And then after that will try a NN or other classifier.
 
 ### Day 2: 09/09/23
 * Making CNN to classify MNIST digit dataset
@@ -35,30 +49,18 @@
 * May try using some sort of ensemble for my next competition
 * Things to do for tmrw: [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) and [Data Visualization](https://www.kaggle.com/learn/data-visualization) and [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) for EDA.
 
-### Day 3: 09/10/2023
-* Started the Kaggle titanic dataset
-* Did a lot more EDA and feature engineering -- some `NaN` values, features that may have caused memorization, some features that needed parsing
-* Making a random forest gets an accuracy score of 0.825. Not too bad for first attempt?
-* Tmrw going to pause from doing challenges and do those tutorials I listed yesterday. And then after that will try a NN or other classifier.
+### Day 1: 09/08/23
+* Decided to start working my way through Kaggle's Getting Started challenges.
+* Working on the classic MNIST dataset. I must've done this before, but am doing it without following any tutorial this time and am learning a lot more along the way (not just hitting run on cells).
+* Tried with some sklearn classification algorithms (svm.SVC, trees.DecisionTreeClassifier, neighbors.KNearestNeighborsClassifier), mostly with default settings and they performed well
+* SVM seems to perform the best but is also the slowest
+* Evaluation is hard bc have to choose the right metrics
+* Here's the repo where I'll keep track of those notebooks: https://github.com/alexcjwei/getting-started-kaggle
+* Tmrw: try CNN then move on
 
-### Day 4: 09/11/2023
-* Started the intermediate machine learning Kaggle course
-* Learned how to handle missing values with several methods (dropping, imputation, imputation with labeling)
+### Day 0: 09/07/23
+* Read Andrew Ng's ["How to Build Your Career in AI" eBook](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book#MYL-form)
+* Need to remember my career is long -- all I have to do is start now and do a little every day
 
-### Day 5: 09/12/2023
-* Learned how to pre-process categorical data using ordinal encoding and one-hot encoding
-* Learned how to create pipelines to combine preprocessing and prediction/inference in the same step. So much cleaner!
-* Learned how to use cross-validation. Should take a look at grid search at some point
 
-### Day 6: 09/13/2023
-* Learned about XGBoost through Kaggle's Intermediate ML tutorial. I guess for XGBoost we don't make the trees separately and have them learn from previous trees instead
 
-### Day 7: 09/14/2023
-* Learned about data leakage and finished Kaggle's Intermediate ML tutorial. Pretty hard to identify!
-
-### Day 8: 09/15/2023
-* Started applying what I learned this week to the titanic ML dataset. Think I just want to get a pipeline working with XGBoost, with added features, then move onto a new dataset
-
-### Day 9: 09/16/2023
-* Added pipeline for rfc on titanic dataset
-* Added cabin letter feature from cabin
