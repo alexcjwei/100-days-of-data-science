@@ -61,3 +61,4 @@
 
 ### Day 9: 09/16/2023
 * Added pipeline for rfc on titanic dataset
+* Added cabin letter feature from cabin
