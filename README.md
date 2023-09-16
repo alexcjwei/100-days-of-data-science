@@ -60,4 +60,4 @@
 * Started applying what I learned this week to the titanic ML dataset. Think I just want to get a pipeline working with XGBoost, with added features, then move onto a new dataset
 
 ### Day 9: 09/16/2023
-* 
+* Added pipeline for rfc on titanic dataset
