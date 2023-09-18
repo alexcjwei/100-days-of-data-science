@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 8: 09/17/2023
+* Started SpaceTitanic dataset
+* Want to do the Data Visualization course on Kaggle. Getting stuck googling how to use matplotlib properly to visualize the data
+
 ### Day 9: 09/16/2023
 * Added pipeline for rfc on titanic dataset
 * Added cabin letter feature from cabin
@@ -61,6 +65,4 @@
 ### Day 0: 09/07/23
 * Read Andrew Ng's ["How to Build Your Career in AI" eBook](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book#MYL-form)
 * Need to remember my career is long -- all I have to do is start now and do a little every day
-
-
 
