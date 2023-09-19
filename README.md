@@ -10,6 +10,13 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 12: 09/19/2023
+* Finished Spaceship titanic with final score 0.78232. Probably could have: used cross validation.
+* Want to learn how to add features from within a pipeline. I think I was close but was having some issues in the end
+* I think if I use a base thingy and implement fit and transform properly, then I can use them in a step in my pipeline.
+* Tried using FunctionalTransformer to no avail
+* Time for real dataset?
+
 ### Day 11: 09/18/2023
 * Did around 30 min EDA and feature engineering on the Spaceship Titanic dataset on Kaggle
 
