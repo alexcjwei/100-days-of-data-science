@@ -10,7 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
-### Day 8: 09/17/2023
+### Day 11: 09/18/2023
+* Did around 30 min EDA and feature engineering on the Spaceship Titanic dataset on Kaggle
+
+### Day 10: 09/17/2023
 * Started SpaceTitanic dataset
 * Want to do the Data Visualization course on Kaggle. Getting stuck googling how to use matplotlib properly to visualize the data
 
