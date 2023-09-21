@@ -10,6 +10,11 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 13: 09/20/2023
+* Learned how to use linear regression with time series
+* Created features like time step and lag
+* Also learning some basic plots with seaborn rather than just matplotlib
+
 ### Day 12: 09/19/2023
 * Finished Spaceship titanic with final score 0.78232. Probably could have: used cross validation.
 * Want to learn how to add features from within a pipeline. I think I was close but was having some issues in the end
