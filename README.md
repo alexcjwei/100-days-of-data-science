@@ -10,6 +10,9 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 14: 09/21/2023
+* Learned more tools and plots for using seaborn (Line charts, bar charts, heatmaps, scatter plots)
+
 ### Day 13: 09/20/2023
 * Learned how to use linear regression with time series
 * Created features like time step and lag
