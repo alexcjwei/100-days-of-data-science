@@ -10,6 +10,9 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 15: 09/22/2023
+* Finished the Data Visualization course, where I learned about histograms and density plots and plotting multiple features using things like hue or jointplots. Seaborn is awesome! This course has helped me see how I can approach visualizing data, and how easy it can be.
+
 ### Day 14: 09/21/2023
 * Learned more tools and plots for using seaborn (Line charts, bar charts, heatmaps, scatter plots)
 
