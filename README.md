@@ -10,6 +10,9 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 16: 09/23/2023
+* Just made a pipeline to predict the health outcome of a horse. I am more confident in using the same preprocessing techniques (simple imputer, onehot) and the main classificatio algorithms on sklearn (random forest, svc, mlp, etc.). Would like to branch out more. Also wondering, how are machine learning research repos set up for data preprocessing, exploration, etc?
+
 ### Day 15: 09/22/2023
 * Finished the Data Visualization course, where I learned about histograms and density plots and plotting multiple features using things like hue or jointplots. Seaborn is awesome! This course has helped me see how I can approach visualizing data, and how easy it can be.
 
