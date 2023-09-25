@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 17: 09/24/2023
+* Learned about trends and seasonality when working with time series.
+* Want to pick a project that will help me grow technically (challenging enough to stretch skills but not so hard I won't succeed), and be a stepping stone to larger projects.
+
 ### Day 16: 09/23/2023
 * Just made a pipeline to predict the health outcome of a horse. I am more confident in using the same preprocessing techniques (simple imputer, onehot) and the main classificatio algorithms on sklearn (random forest, svc, mlp, etc.). Would like to branch out more. Also wondering, how are machine learning research repos set up for data preprocessing, exploration, etc?
 
