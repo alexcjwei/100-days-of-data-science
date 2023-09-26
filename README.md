@@ -10,6 +10,14 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 19: 09/26/2023
+* Continued EDA on contrails dataset, consolidating my functions for visualizing code and looking at examples from train/validation set.
+* Created a Pytorch Dataset and Dataloader to load my datasets! This was pretty great as I'd gotten stuck on this step of the process before. However, since my understanding of the data was better, this went smoothly and I could set it up by myself.
+
+### Day 18: 09/25/2023
+* Started some EDA on the contrails dataset. Converted the satellite data to RGB color scheme for visualization, and overlayed the masks.
+* Created animation to watch the contrail sequence.
+
 ### Day 17: 09/24/2023
 * Learned about trends and seasonality when working with time series.
 * Want to pick a project that will help me grow technically (challenging enough to stretch skills but not so hard I won't succeed), and be a stepping stone to larger projects.
