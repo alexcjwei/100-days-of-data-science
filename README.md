@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 20: 09/27/2023
+* Visualized data from the Dataset to make sure I was loading data properly
+* Turns out Python Enums start at 1 by default! Was debugging my plots for a while.
+
 ### Day 19: 09/26/2023
 * Continued EDA on contrails dataset, consolidating my functions for visualizing code and looking at examples from train/validation set.
 * Created a Pytorch Dataset and Dataloader to load my datasets! This was pretty great as I'd gotten stuck on this step of the process before. However, since my understanding of the data was better, this went smoothly and I could set it up by myself.
