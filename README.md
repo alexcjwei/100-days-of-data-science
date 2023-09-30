@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 22: 09/29/2023
+* Separated transformations out of training loop into dataset
+* CUDA running out of memory when running! What do I do now...
+
 ### Day 21: 09/28/2023
 * Set up Unet from `segmentation_models.pytorch` to train single epoch! 
 
