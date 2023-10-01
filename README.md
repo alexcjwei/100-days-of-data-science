@@ -10,6 +10,11 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 23: 09/30/2023
+* Verified the losses of the initial Unet I'd set up.
+* Loss was 0 for examples without ground-truth masks, 0.9293 for examples with ground-truth masks.
+* Want to visualize the outputs we're getting from the model next.
+
 ### Day 22: 09/29/2023
 * Separated transformations out of training loop into dataset
 * CUDA running out of memory when running! What do I do now...
