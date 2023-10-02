@@ -10,6 +10,11 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 24: 10/01/2023
+* Trained the model on a single data point to see if it would overfit
+* The model did train a bit and was able to correctly classify some segmentation, but not all of it
+* Wrote up some hypotheses as to why my model may be training but not overfitting and will look into them in the future (model complexity, bad initialization, learning rate).
+
 ### Day 23: 09/30/2023
 * Verified the losses of the initial Unet I'd set up.
 * Loss was 0 for examples without ground-truth masks, 0.9293 for examples with ground-truth masks.
