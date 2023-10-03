@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 25: 10/02/2023
+* Increased the UNet encoder depth, and segmentation improved. We looked to be overfitting on the single example.
+* However, I'm not sure why the DICE score was staying around 0.9. Need to look into that.
+
 ### Day 24: 10/01/2023
 * Trained the model on a single data point to see if it would overfit
 * The model did train a bit and was able to correctly classify some segmentation, but not all of it
