@@ -10,6 +10,9 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 26: 10/03/2023
+* I computed dice loss by hand and found the result to be different than what the library was giving me. Need to investigate why that is. It's giving me a lower score than it should be.
+
 ### Day 25: 10/02/2023
 * Increased the UNet encoder depth, and segmentation improved. We looked to be overfitting on the single example.
 * However, I'm not sure why the DICE score was staying around 0.9. Need to look into that.
