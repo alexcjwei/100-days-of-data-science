@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 27: 10/04/2023
+* Just added some basic image transformations and verified they were working
+* Caught bug that transformations not being applied to the target mask as well
+
 ### Day 26: 10/03/2023
 * I computed dice loss by hand and found the result to be different than what the library was giving me. Need to investigate why that is. It's giving me a lower score than it should be.
 
