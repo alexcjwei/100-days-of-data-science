@@ -10,6 +10,15 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 28: 10/04/2023
+* Ok I'm not sure where my days got messed up because I have one a day but somehow have two 10/04s? I'm going crazy.
+* Looked at what some other people have been doing to see what's up. Looks like they're using a different encoder and are setting the decoder channels manually.
+* They're also shifting the labels before training, because apparently they're all shifted a pixel over? Not sure how or why that matters.
+* They're also only using the T=4 step. The bottleneck is having to load all 8 timesteps for each channel. That is, unless I decide to use with LSTM.
+* Rotation augmentation
+* They also only use 3 of the channels... what!?
+* Maybe I should just follow this paper? https://arxiv.org/pdf/2304.02122.pdf
+
 ### Day 27: 10/04/2023
 * Just added some basic image transformations and verified they were working
 * Caught bug that transformations not being applied to the target mask as well
