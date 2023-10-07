@@ -10,7 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
-### Day 28: 10/04/2023
+### Day 29: 10/07/2023
+* Reworking to the basics to try to speed things up, just 3 channels
+
+### Day 28: 10/05/2023
 * Ok I'm not sure where my days got messed up because I have one a day but somehow have two 10/04s? I'm going crazy.
 * Looked at what some other people have been doing to see what's up. Looks like they're using a different encoder and are setting the decoder channels manually.
 * They're also shifting the labels before training, because apparently they're all shifted a pixel over? Not sure how or why that matters.
