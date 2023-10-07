@@ -12,6 +12,7 @@
 ## Log
 ### Day 29: 10/07/2023
 * Reworking to the basics to try to speed things up, just 3 channels
+* Created new file to take the original data and write to files in better format to reduce io when geting items
 
 ### Day 28: 10/05/2023
 * Ok I'm not sure where my days got messed up because I have one a day but somehow have two 10/04s? I'm going crazy.
