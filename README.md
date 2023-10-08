@@ -10,6 +10,10 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 30: 10/08/2023
+* So kaggle output size couldn't store all the data
+* Made training loop cleaner and included reporting, saving models.
+
 ### Day 29: 10/07/2023
 * Reworking to the basics to try to speed things up, just 3 channels
 * Created new file to take the original data and write to files in better format to reduce io when geting items
