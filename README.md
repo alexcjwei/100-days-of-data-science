@@ -10,6 +10,9 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 31: 10/09/2023
+* Went reaalll deep into Dice loss. I was wondering why I was getting a loss of 0.0 when there was no interesection between my inputs and outputs -- but apparently dice score is undefined when the target class is empty?
+
 ### Day 30: 10/08/2023
 * So kaggle output size couldn't store all the data
 * Made training loop cleaner and included reporting, saving models.
