@@ -10,6 +10,9 @@
 * At the end, I want to be able to take on the [Google Contrails competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 
 ## Log
+### Day 33: 10/11/2023
+* Looked into using LSTM to incorporate the time steps -- may implement LSTM by hand so I get how it works.
+
 ### Day 32: 10/10/2023
 * Implemented my own Dice loss, since the smp one defines empty y_true as 0, which means if y_true is empty set and we predict all contrails we get no loss, which is not preferred in my case since the data is mostly empty.
 
